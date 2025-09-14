@@ -1,2 +1,1 @@
-# mtc-repo-43176
-MTC Terraform Code
+# This repository is for Infra developers.
